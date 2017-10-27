@@ -1,0 +1,21 @@
+Array
+(
+    [0] => Array
+        (
+            [locale] => default
+            [text] => Hello {{user_full_name}}
+        )
+
+    [1] => Array
+        (
+            [locale] => en_US
+            [text] => Hi {{user_first_name}}, welcome to this bot.
+        )
+
+    [2] => Array
+        (
+            [locale] => de_DE
+            [text] => Hallo {{user_first_name}}, herzlich willkommen.
+        )
+
+)
